@@ -1,0 +1,14 @@
+C:\Pedro\Ambientacao\Ambientacao\bin\Debug\net7.0\Ambientacao.exe
+C:\Pedro\Ambientacao\Ambientacao\bin\Debug\net7.0\Ambientacao.deps.json
+C:\Pedro\Ambientacao\Ambientacao\bin\Debug\net7.0\Ambientacao.runtimeconfig.json
+C:\Pedro\Ambientacao\Ambientacao\bin\Debug\net7.0\Ambientacao.dll
+C:\Pedro\Ambientacao\Ambientacao\bin\Debug\net7.0\Ambientacao.pdb
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\Ambientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\Ambientacao.AssemblyInfoInputs.cache
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\Ambientacao.AssemblyInfo.cs
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\Ambientacao.csproj.CoreCompileInputs.cache
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\Ambientacao.dll
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\refint\Ambientacao.dll
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\Ambientacao.pdb
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\Ambientacao.genruntimeconfig.cache
+C:\Pedro\Ambientacao\Ambientacao\obj\Debug\net7.0\ref\Ambientacao.dll
